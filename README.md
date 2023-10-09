@@ -1,1 +1,1 @@
-# Ever Green develop using Tailwind CSS.
+# Ever Green developed using Tailwind CSS.
